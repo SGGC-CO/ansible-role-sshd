@@ -1,0 +1,5 @@
+---
+roles:
+  - name: ansible-role-sshd
+    src: https://github.com/SGGC-CO/ansible-role-sshd.git
+    version: main
